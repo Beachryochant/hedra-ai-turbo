@@ -45,4 +45,4 @@ Details & docs: https://hedra-ai-turbo.softyx.xyz
 Yes — it's free to download and use.
 
 **Do I need anything else installed?**
-No extra dependencies — download and run.            
+No extra dependencies — download and run.             
